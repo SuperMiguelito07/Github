@@ -32,4 +32,4 @@
 
 - To commit changes, simply click on "Commit," and within that prompt, select "Commit and Push" to save the changes made.
 
-![Screenshot](.\Capture\Capture5.png)
+![Screenshot](.\Capturas\Captura6.png)
