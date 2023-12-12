@@ -3,9 +3,9 @@
 
 - Clonar el repositorio:
   bash
-  git clone https://github.com/tuusuario/EjercicioGitHub.git
-  cd EjercicioGitHub 
-
+  git clone //https:github.com/SuperMiguelito07/Github.git
+  cd Github
+  
 - Crear el archivo `E1Github.md`:
   bash
   touch E1Github.md
